@@ -5,5 +5,5 @@ def factorial(n):
     return fact
 
 def combination_without_repetition(names):
-    return factorial(len(names))/(factorial(2)*(factorial(len(names)-2)))
+    return int(factorial(len(names))/(factorial(2)*(factorial(len(names)-2))))
     
