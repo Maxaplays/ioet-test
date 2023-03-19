@@ -10,7 +10,7 @@
 
 - The objective of this exercise is to determine how many times employees schedules have been aligned and print them out in the console.
 - Taking the information from a .txt file and writing the code without any external libraries or libraries that require import included in Python, ex: "datetime"
-- An exeption to this rule is libreries included for Unit Testing purpuses.
+- An exeption to this rule is libraries included for Unit Testing purpuses.
 
 ## Run
 
